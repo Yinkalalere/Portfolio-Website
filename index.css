@@ -4,8 +4,8 @@
 }
 
 body {
-    /* height: 100%;  */
-    font-size: 24px; 
+    height: 100%; 
+    /* font-size: 24px;  */
     box-sizing: border-box;
     Overflow-x:hidden;
 }
@@ -63,7 +63,7 @@ body {
     }
 
    .content {
-       font-size: 40px;
+       /* font-size: 40px; */
        margin: 150px 0px 0px 0px;
        text-align: center;
        color:black;
@@ -71,7 +71,7 @@ body {
 
    .content h3 {
        color:#162447;
-       font-size: 60px;
+       /* font-size: 60px; */
        font-family: 'Raleway', sans-serif;
    }
 
