@@ -21,7 +21,7 @@ body {
    #image {
        border: 1px solid transparent;
        border-radius: 100%;
-       margin-top:70px;
+       margin-top:30px;
    }
 
    #nav{
@@ -32,11 +32,12 @@ body {
    #border {
        border: 1px solid #4d089a;
        border-radius:50px;
-       padding:10px;
-       font-size:24px;
-       width: 150px;
+       padding:5px;
+       font-size:20px;
+       width: 120px;
+       height: 25px;
        text-align: center;
-       margin:30px 100px 0 0;
+       margin:20px 100px 0 0;
        color:#4d089a;
        font-family: "europa", sans-serif;
     }
@@ -52,7 +53,7 @@ body {
 
     #animate {
         margin:20px 0 0 100px;
-        font-size: 50px;
+        font-size: 30px;
         color:#4d089a;
     }
 
@@ -63,15 +64,15 @@ body {
     }
 
    .content {
-       font-size: 30px;
-       margin: 150px 0px 150px 0px;
+       font-size: 24px;
+       margin: 100px 0px 50px 0px;
        text-align: center;
        color:black;
    }
 
    .content h3 {
        color:#162447;
-       font-size: 50px;
+       font-size: 35px;
        font-family: 'Raleway', sans-serif;
        margin-bottom: 20px;
    }
@@ -81,20 +82,13 @@ body {
        line-height: 50px;
    }
 
-    #btn {
-        width: 200px;
-        height: 60px;
-        font-size: 25px;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
-
     .square {
         display: flex;
         flex-direction: column;
         background-color:#4d089a;
-        height:350px;
-        font-size:30px;
-        line-height:60px;
+        height:300px;
+        font-size:24px;
+        line-height:50px;
         color:white;
         font-family:'Libre Caslon Display', serif;
         text-align: center;
@@ -120,12 +114,11 @@ body {
         flex-direction:column;
         justify-content: center;
         text-align:center;
-        font-size:30px;
-        margin-bottom: 70px;
+        font-size:24px;
     }
 
     #project-title p {
-        margin-top:20px;
+        margin-top:10px;
     }
 
     #email-link {
@@ -143,12 +136,12 @@ body {
         flex-direction: column;
         justify-content: center;
         text-align: center;
-        font-size: 30px;
+        font-size: 24px;
     }
 
     #work p{
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
-        font-size:30px;
+        font-size:24px;
         margin: 20px 0 20px 0;
     }
 
@@ -156,8 +149,9 @@ body {
         align-self: center;
         border: 1px solid #4d089a;
         padding: 10px;
-        width: 400px;
+        width: 300px;
         border-radius:50px;
+        font-size: 24px;
         font-family: "europa", sans-serif;
         color: #4d089a;
         background-color: white;
@@ -167,19 +161,20 @@ body {
     #footer {
         display: flex;
         flex-direction: column;
-        height:400px;
+        height:270px;
         background-color:#4d089a;
-        margin:150px 0 0 0;
+        margin:100px 0 0 0;
         color: white;
     }
 
     #footer p{
         font-size: 32px;
-        width: 680px;
+        width: 510px;
         font-family: 'Libre Caslon Display', serif;
         align-self:center;
-        margin-top:100px;
+        margin-top:50px;
         text-align: center;
+        font-size:24px;
     }
 
     #contact {
@@ -192,7 +187,7 @@ body {
     #contact a {
     color:white;
         margin-right: 50px;
-        font-size: 30px;
+        font-size: 20px;
         border: 1px solid gray;
         border-radius: 100%;
         padding:15px;
